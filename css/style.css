@@ -9,6 +9,9 @@ a {
    outline: none;
    list-style: none;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 *,
 *:after,
